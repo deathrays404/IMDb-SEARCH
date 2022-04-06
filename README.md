@@ -46,7 +46,7 @@ add optional larger result buttons:
 
 ## Deploy
 You can deploy this bot anywhere.
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/deathrays404/IMDb-SEARCH)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deathrays404/IMDb-SEARCH)
 
 <details><summary>Deploy to Heroku</summary>
 <p>
